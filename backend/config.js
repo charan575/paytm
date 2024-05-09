@@ -1,3 +1,4 @@
-module. exports = {
-    JWT_SECRET : "sum-jwt-secret"
+//backend/config.js
+module.exports = {
+	JWT_SECRET: "your-jwt-secret"
 }
